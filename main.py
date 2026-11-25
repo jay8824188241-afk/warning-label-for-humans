@@ -8,8 +8,8 @@ and always prints it to stdout.
 """
 
 LABEL = (
-    "WARNING: This human runs on caffeine, confidence, and unfinished plans. "
-    "Do not shake, do not rush, and never ask how the diet is going."
+    "WARNING: This human is 70% water, 20% caffeine, and 10% pretending "
+    "to have read the terms and conditions. Do not operate before coffee."
 )
 
 
